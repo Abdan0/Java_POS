@@ -1,8 +1,9 @@
-💼 Java POS (Point of Sale) Application
+# 💼 Java POS (Point of Sale) Application
 
 Sistem Point of Sales berbasis deskop yang sederhana dan dikembangkan dengan menggunakan JAVA GUI. Aplikasi ini digunakan untuk mengelola penjualan skala kecil, penyimpanan barang, dan transaksi barang.
+---
 
-📸 Preview
+# 📸 Preview
 ![Preview Login](Preview/Login-POS.png)
 
 ![Preview Login](Preview/MainMenu-POS.png)
@@ -22,8 +23,9 @@ Sistem Point of Sales berbasis deskop yang sederhana dan dikembangkan dengan men
 ![Preview Barang Masuk](Preview/BarangMasuk-POS.png)
 
 ![Preview Barang Keluar](Preview/BarangKeluar-POS.png)
+---
 
-✨ Fitur Utama
+# ✨ Fitur Utama
 
 - 🛒 Kelola Produk (CRUD)
 - 📦 Manajemen Stok
@@ -31,18 +33,21 @@ Sistem Point of Sales berbasis deskop yang sederhana dan dikembangkan dengan men
 - 📊 Laporan Penjualan
 - 👥 Manajemen Pengguna (Admin dan Kasir)
 - 💾 Penyimpanan data dengan MySQL
+  
+---
 
-🛠️ Teknologi yang Digunakan
+# 🛠️ Teknologi yang Digunakan
 
 - Java (Swing GUI)
 - MySQL
 - JDBC
 - NetBeans IDE
 
-📦 Cara Menjalankan Proyek Ini
+---
 
-1. Clone Repositori
-   
+# 📦 Cara Menjalankan Proyek Ini
+
+## 1. Clone Repositori
+   ```bash
    git clone https://github.com/Abdan0/Java_POS.git
-   
    cd Java_POS
